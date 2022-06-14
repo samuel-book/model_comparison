@@ -31,7 +31,6 @@ Perform the following tests (k-fold):
 4) Compare predicted and observed thrombolysis use at each hospital (combiedn k-fodl test sets)
 5) Check model calibration
 6) Check for thrombolysis of haemorrhagic stroke patients in test set
-7) Perform learning curves
 
 ---
 
