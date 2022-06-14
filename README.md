@@ -35,9 +35,8 @@ Perform the following tests (k-fold):
 
 ---
 
-Check with the following modifications:
+Check with the following modification:
 
-1) Calibrated threshold (based on training set)
-2) Balanced trainign set (over-sample minority class in training set)
+1) Balanced trainign set (over-sample minority class in training set)
 
 
